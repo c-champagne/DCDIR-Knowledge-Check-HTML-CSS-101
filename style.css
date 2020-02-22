@@ -1,0 +1,23 @@
+html {
+    border: 3px solid black;
+    margin: 10px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+header {
+    text-align: center;
+    
+}
+hr {
+    height: 2px;
+    background-color: gray;
+}
+#image {
+    display: flex;
+    justify-content: center;
+}
+
+footer {
+    text-align: center;
+}
